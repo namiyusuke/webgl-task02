@@ -15,8 +15,6 @@
     "lint:css": "stylelint --fix **/*.{css,scss,sass}"
   },
   "devDependencies": {
-    "@hilosiva/vite-plugin-html-oreder": "^0.1.1",
-    "@hilosiva/vite-plugin-image-oretimaizer": "^0.2.2",
     "autoprefixer": "^10.4.14",
     "css-declaration-sorter": "^7.0.0",
     "css-mqpacker": "^7.0.0",
